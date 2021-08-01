@@ -32,7 +32,7 @@ img {
   grid-gap: 16px;
   padding-bottom: 24px;
 }
-.a,
+a,
 link {
   text-decoration: none;
 }
